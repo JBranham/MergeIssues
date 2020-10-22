@@ -72,7 +72,7 @@
 			</testmodule>
 			<testcase
 			id="d0cfff63-4a8f-47ca-b67a-f5c02fcaac9a"
-			name="T1.0_RFP-016SmokeTest">
+			name="T1.0_RFP-016SmokeTest123">
 			</testcase>
 			<smartfoldernode
 			id="e0b56588-2842-4291-a2a5-d3307fe3df57"
@@ -111,7 +111,7 @@
 					name="account">
 						<testcase
 						id="d0cfff63-4a8f-47ca-b67a-f5c02fcaac9a"
-						name="T1.0_RFP-016SmokeTest">
+						name="T1.0_RFP-016SmokeTest123">
 							<setup
 							id="02dd6b5e-0afe-46af-ac81-47dc70f7437f"
 							name="setup">
