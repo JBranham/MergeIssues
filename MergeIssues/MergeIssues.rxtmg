@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="MergeIssues"
+      id="974ae3df-b743-40fe-ab76-bfcb86c44b41"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="MergeIssues"
+      id="974ae3df-b743-40fe-ab76-bfcb86c44b41"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

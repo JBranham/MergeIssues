@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MergeIssuesRepository"
+id="c7bf906f-47aa-46c9-97d5-840a3abf910c">
+  <codegen
+  classname="MergeIssuesRepository"
+  namespace="MergeIssues"/>
+  <rootfolder
+  name="Root"
+  id="ca74b7c9-435e-41a6-b806-4f3c60ac3202"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

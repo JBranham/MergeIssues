@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3a427433-8e5a-47b2-8dc4-a6adcef30903"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="MergeIssues">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="c7bf906f-47aa-46c9-97d5-840a3abf910c"
+	name="MergeIssuesRepository"
+	relativepath="MergeIssuesRepository.rxrep">
+		<codegen
+		classname="MergeIssuesRepository"
+		namespace="MergeIssues">
+		</codegen>
+		<rootfolder
+		id="ca74b7c9-435e-41a6-b806-4f3c60ac3202"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
